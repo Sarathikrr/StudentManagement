@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/api/students/";
+const API_URL = "https://studentmanagementfc.onrender.com/api/students/";
 
 const form = document.getElementById("studentForm");
 const table = document.getElementById("studentTable");
